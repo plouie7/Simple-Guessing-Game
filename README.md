@@ -15,4 +15,4 @@ A simple game that draws from a library of random words and makes you guess each
 
 ## World Indicators Dataset
 
-A simple data visualization excersize using a kaggle dataset with the same name. Compares availible data of GINI index with Female Leaders, then compares fertility rate with the amount of arable land. The former had no notable correlation, the latter had correlation depending on which area the comparison was done and income level.
+A simple data visualization exercise in pandas using a kaggle dataset with the same name. Compares availible data of GINI index with Female Leaders, then compares fertility rate with the amount of arable land. The former had no notable correlation, the latter had correlation depending on which area the comparison was done and income level.
