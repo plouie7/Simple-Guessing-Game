@@ -21,10 +21,10 @@ A simple data visualization exercise in pandas using a kaggle dataset with the s
 
 A number of functions run together to convert a hexadecimal to base64.
 >Hexadecimal to Binary
-  -Based on a dictionary, for each digit or letter in a hex string, put its corresponding 4 digit binary string then return the string
+  - Based on a dictionary, for each digit or letter in a hex string, put its corresponding 4 digit binary string then return the string
   
 >Binary to Base64 Numbers
-  -A basic binary to decimal converter that chunks a binary string into groups of 6 and transforms it into a decimal
+  - A basic binary to decimal converter that chunks a binary string into groups of 6 and transforms it into a decimal
   
 >Base64 Number Reader
-  -Returns corresponding Base64 values in "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/" from a decimal
+  - Returns corresponding Base64 values in "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/" from a decimal
