@@ -35,6 +35,7 @@ A simple analysis of data analytics of crime in NYC using matplotlib for static 
 - There is a strong negative correlation of about -.9 between Average Salary and Cases of Larceny. Cases of larceny historically have been the largest percentage of crime in NYC, and though the total number of larceny cases has decreased, the percent of cases compared to total crimes has increased, from 37.9% in the 1990s, to 63.1% in 2017. This is due to other major crimes, such as Motor Vehicle Theft and Burglary decreasing at a faster rate. However, it makes sense that the higher the average salary is in a city, the less likely theft would be necessary to occur. This doesn't take into account other factors such as industry specific average salaries or pay gap inequality.
 - There is a surprisingly weak correlation between DWI arrests and Drug arrests between 2007 and 2017, with DWI Arrests being a only 0.0015 correlation and Drug Related Arrests being a -0.2826 correlation. I am unable to discern whether the police force has too many officers or not enough, as the data itself does not focus on specific departments or how many arrests each department makes towards what crime.
 >Data Used:
+
   https://data.ny.gov/Economic-Development/Quarterly-Census-of-Employment-and-Wages-Annual-Da/shc7-xcbw
   
   https://data.ny.gov/Public-Safety/Index-Crimes-by-County-and-Agency-Beginning-1990/ca8h-8gjq
