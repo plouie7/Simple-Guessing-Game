@@ -43,3 +43,7 @@ A simple analysis of data analytics of crime in NYC using matplotlib for static 
   https://data.ny.gov/Public-Safety/Adult-Arrests-by-County-Beginning-1970/rikd-mt35
   
   https://data.ny.gov/Public-Safety/Law-Enforcement-Personnel-by-Agency-Beginning-2007/khn9-hhpq
+
+## Vigenere
+
+A simple program that can encode or decode a message. It takes n keys, finds the least common multiple of the length of the keys, sets each key to the length of the least common multiple, then uses each of its key to create one master key. It then uses the Vigenere method to encode your message using the master key. Essentially, the reason it does this is that assuming the user uses keys of different lengths, it can becomes something close to a single use key that is as long as the message, which makes the encoded message extremely hard to break. It also encodes most ASCII characters.
